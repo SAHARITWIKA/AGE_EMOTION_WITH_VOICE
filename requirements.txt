@@ -1,0 +1,18 @@
+
+tk                        # Comes with Python, listed for completeness
+torch                     # For loading and running PyTorch models
+torchaudio                # Useful for some voice feature tasks (optional)
+librosa                   # Audio feature extraction (MFCC, mel spectrograms)
+pydub                     # For handling MP3 to WAV conversion
+numpy
+matplotlib                # For spectrogram visualization (if needed)
+
+
+scikit-learn              # For potential age regression/classification
+Pillow                    # Needed by torchvision
+
+
+pyinstaller               # To create the .exe
+
+
+soundfile                 # Required backend for librosa
