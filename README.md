@@ -63,7 +63,7 @@ source venv/bin/activate    # On Windows: venv\Scripts\activate
 
 
 
-Install dependencies
+## Install dependencies:
 
 pip install -r requirements.txt
 
@@ -73,6 +73,7 @@ Ensure trained model files are present in models/ folder.
 
 
 _________________
+## Process: 
 
 1. Run the GUI Application
 
@@ -102,7 +103,7 @@ Age Prediction: Pretrained .pth model
 
 Emotion Detection: Pretrained .pth model
 
-📦 Dependencies
+## 📦 Dependencies
 Ensure all packages in requirements.txt are installed. Common ones include:
 
 torch
